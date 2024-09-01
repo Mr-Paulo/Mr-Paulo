@@ -15,7 +15,3 @@ Finalmente estou criando um perfil no Github para armazenar meus projetos, estud
 - Eu sou uma pessoa apaixonada por boa comida e adoro experimentar pratos de diferentes lugares. Sou um grande fã da cultura geek e adoro jogos de todos os tipos. Além disso, gosto de passar meu tempo livre estudando e descobrindo novas tecnologias.
 
 #
-
-**📚 Livro que estou lendo atualmente**
-
-##### O Rei do Inverno, Bernard Cornwell(⭐️4.26)
